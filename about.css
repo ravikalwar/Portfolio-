@@ -1,0 +1,43 @@
+body
+{
+    background-color:black;
+    color: orangered;
+
+}
+#nav
+{
+    a
+    {
+       font-size:20px;
+       font-family:Verdana, Geneva, Tahoma, sans-serif;
+       text-decoration:none;
+       color:brown;
+       margin:25px;
+       border:2px solid royalblue;
+       border-radius:25px;
+    }
+}
+#about
+{
+    h4
+    {
+        color:red;
+        font-size:25px;
+    }
+    ul
+    {
+      font-size:20px;
+      font-family:'Courier New', Courier, monospace;
+      color:brown;
+      margin:20px;
+      padding:10px;
+    }
+}
+#details
+{
+    p{
+        font-size:16px;
+        color:aqua;
+        margin:50px;
+    }
+}

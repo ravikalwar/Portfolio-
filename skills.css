@@ -1,0 +1,41 @@
+body
+{
+    background-color:black;
+
+}
+#navigation
+{
+    a
+    {
+        font-size:20px;
+        font-family:cursive;
+        text-decoration:none;
+        margin:10px;
+        color:cornsilk;
+        border: 2px solid brown;
+        border-radius:30px;
+        
+    }
+}
+#skills
+{
+    h3   
+    {
+        color:aqua;
+        font-size:16px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+    }
+    ul
+    {
+        font-size:15px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        color:cornsilk;
+        margin:20px;
+        padding:10px;
+
+    }
+    
+
+}
+}

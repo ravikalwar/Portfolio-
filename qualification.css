@@ -1,0 +1,35 @@
+body
+{
+    background-color: black;
+}
+#navigation
+{
+    a
+    {
+      font-size:25px;
+      font-family: 'Times New Roman', Times, serif;
+      text-decoration:none;
+      color:aqua;
+      margin:15px;
+      border:2px solid brown;
+      border-radius:25px;
+    }
+}
+#Qualification
+{
+    font-size:16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:silver;
+    margin:25px;
+
+}
+table
+{
+    font-size:15px;
+    font-family:cursive;
+    color:cadetblue;
+    margin:25px;
+    padding:25px;
+    border:2px solid brown;
+
+}
